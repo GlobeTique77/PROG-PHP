@@ -8,6 +8,7 @@ class Agent {
 	public $prenom;
 	public $dn;
 	public $adr;
+	public $lol;
 
 //Constructeur - Méthodes - fonctions
 	public function __construct($id, $nom, $prenom, $dn, $adr) {
